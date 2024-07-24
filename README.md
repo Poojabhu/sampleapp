@@ -1,2 +1,0 @@
-# sampleapp
-new repo
